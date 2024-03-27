@@ -11,7 +11,7 @@
     "explorers": [
       {
         "name": "ncogchain",
-        "url": "https://explorer-test.ncogchain.earth",
+        "url": "https://bs-explorer.ncogchain.earth",
         "standard": "none"
       }
     ]
