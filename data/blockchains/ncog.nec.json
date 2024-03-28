@@ -1,5 +1,5 @@
 {
-    "name": "NCOG Earth Chain Test Net",
+    "name": "Updated Name",
     "rpc": ["https://api-test.ncogchain.earth/"],
     "faucets": [],
     "nativeCurrency": {
