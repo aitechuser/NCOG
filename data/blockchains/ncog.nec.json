@@ -12,7 +12,7 @@
       {
         "name": "ncogchain",
         "url": "https://bs-explorer.ncogchain.earth",
-        "standard": "none"
+        "standard": "none-ok"
       }
     ]
   }
