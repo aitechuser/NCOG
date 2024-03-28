@@ -12,7 +12,7 @@
       {
         "name": "ncog.eth.json",
         "url": "ncog.eth.json://bs-explorer.ncogchain.earth",
-        "standard": "none"
+        "standard": "updated"
       }
     ]
   }
