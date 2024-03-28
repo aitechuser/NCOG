@@ -4,15 +4,15 @@
     "faucets": [],
     "nativeCurrency": {
       "name": "Currency Name",
-      "symbol": "BNC",
+      "symbol": "NEC",
     },
     "chainId": 2528,
     "contractAddress" :"0x1F10fd94564a15390d1e19D0E07Df280bA169819",
     "explorers": [
       {
-        "name": "ncogchsdain",
-        "url": "https://bs-explorer.ncogchain.earth",
-        "standard": "none"
+        "name": "ncog.eth.json",
+        "url": "ncog.eth.json://bs-explorer.ncogchain.earth",
+        "standard": "updated"
       }
     ]
   }
