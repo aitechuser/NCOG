@@ -7,7 +7,7 @@
       "symbol": "NEC"
     },
     "chainId": 2528,
-    "contractAddress" :"0x1F10fd94564a15390d1e19D0E07Df280bA169819",
+    "contractAddress" :"0xa41b35511FD024a89bA5E23064CB1BEDc70809FC",
     "networkId" : "https://api-test.ncogchain.earth" , 
     "explorers": [
       {
