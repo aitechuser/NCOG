@@ -8,7 +8,6 @@
     },
     "chainId": 2528,
     "contractAddress" :"0x1F10fd94564a15390d1e19D0E07Df280bA169819",
-    "networkId" : "https://api-test.ncogchain.earth" , 
     "explorers": [
       {
         "name": "ncogchain",
