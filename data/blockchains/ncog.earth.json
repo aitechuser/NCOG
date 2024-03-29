@@ -1,18 +1,17 @@
 {
-    "name": "Sepolia test network",
-    "rpc": ["https://sepolia.infura.io/v3/"],
+    "name": "NCOG Earth Chain Test Net",
+    "rpc": ["https://api-test.ncogchain.earth/"],
     "faucets": [],
     "nativeCurrency": {
       "name": "Currency Name",
       "symbol": "ETH"
     },
-    "chainId": 11155111,
+    "chainId": 2528,
     "contractAddress" :"0x1F10fd94564a15390d1e19D0E07Df280bA169819",
-    "networkId" : "https://rpc2.sepolia.org" , 
     "explorers": [
       {
-        "name": "sepolia",
-        "url": "https://sepolia.etherscan.io",
+        "name": "ncogchain",
+        "url": "https://bs-explorer.ncogchain.earth",
         "standard": "none"
       }
     ]
