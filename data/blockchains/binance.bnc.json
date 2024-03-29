@@ -1,18 +1,18 @@
 {
-  "name": "Sepolia test network",
-  "rpc": ["https://sepolia.infura.io/v3/"],
+  "name": "binance test network",
+  "rpc": ["https://binance.infura.io/v3/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Currency Name",
-    "symbol": "ETH"
+    "symbol": "BNC"
   },
-  "chainId": 11155111,
+  "chainId": 65655,
   "contractAddress" :"0xb87e519e6799C5854a583c9514ba48837e59e86F",
-  "networkId" : "https://rpc2.sepolia.org" , 
+  "networkId" : "https://rpc2.binance.org" , 
   "explorers": [
     {
       "name": "sepolia",
-      "url": "https://sepolia.etherscan.io",
+      "url": "https://binance.etherscan.io",
       "standard": "none"
     }
   ]
